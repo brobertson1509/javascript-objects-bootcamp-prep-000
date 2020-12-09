@@ -6,7 +6,7 @@ var playlist = {
 playlist.artistName;
 
 function updatePlaylist (playlist, ArtistName, songTitle) {
-playlist.PhilOchs = "Here's to the State of Mississippi";
+playlist['Phil Ochs'] = "Here's to the State of Mississippi";
   return playlist;
 }
 
