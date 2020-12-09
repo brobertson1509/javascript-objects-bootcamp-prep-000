@@ -6,7 +6,7 @@ playlist.artistName;
 
 function updatePlaylist (playlist, ArtistName, songTitle) {
   playlist.Slowdive = 'Alison';
-  playlist.My Bloody Valentine = 'Sometimes';
+  playlist.MyBloodyValentine = 'Sometimes';
   return playlist;
 }
 
