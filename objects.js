@@ -4,3 +4,7 @@ var playlist = {
 };
 
 playlist.artistName;
+
+function updatePlaylist (object, key, value) {
+  
+}
