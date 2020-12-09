@@ -6,8 +6,7 @@ var playlist = {
 playlist.artistName;
 
 function updatePlaylist (playlist, ArtistName, songTitle) {
-  playlist.Slowdive = 'Alison';
-  playlist.MyBloodyValentine = 'Sometimes';
+Object.assign({}, playlist, {PhilOchs: ""})
   return playlist;
 }
 
