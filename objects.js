@@ -3,4 +3,4 @@ var playlist = {
   artistName1: "songTitle1"
 };
 
-playlist.artist;
+playlist.artistName;
